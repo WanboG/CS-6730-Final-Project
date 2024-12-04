@@ -12,13 +12,15 @@ body {
     display: block; /* Make the menu visible */
 }
 
-/* Sticky Menu Styles */
 #stickyMenu h3 {
     margin-top: 0;
     font-size: 18px;
 }
 
+#stickyMenu p {
+    margin: 5px 0;
+}
+
 #stickyMenu b {
     font-weight: bold;
 }
-

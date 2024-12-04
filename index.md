@@ -974,7 +974,7 @@ The U.S. job market is not just a collection of statistics—it's a living, brea
     top: 50px;
     right: 10px;
     width: 300px;
-    height: auto; /* Automatically adjust to content */
+    height: auto; /* Adjusted to accommodate all items */
     display: none; /* Initially hidden */
     background-color: white;
     border: 1px solid #ccc;
@@ -982,10 +982,10 @@ The U.S. job market is not just a collection of statistics—it's a living, brea
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     z-index: 999;
     padding: 10px;
-    overflow-y: visible; /* Ensure all items are shown */
+    overflow-y: visible; /* Ensure no scrolling */
 ">
     <h3>Occupation Abbreviations</h3>
-    <b>AEN:</b> Architecture and Engineering Occupations
+    <p><b>AEN:</b> Architecture and Engineering Occupations</p>
     <p><b>ART:</b> Arts, Design, Entertainment, Sports, and Media Occupations</p>
     <p><b>BFO:</b> Business and Financial Operations Occupations</p>
     <p><b>BGM:</b> Building and Grounds Cleaning and Maintenance Occupations</p>
