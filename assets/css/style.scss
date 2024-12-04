@@ -8,19 +8,24 @@ body {
     font-family: Georgia, serif;
 }
 
-#stickyMenu.show {
-    display: block; /* Make the menu visible */
-}
-
 #stickyMenu h3 {
     margin-top: 0;
     font-size: 18px;
 }
 
 #stickyMenu p {
-    margin: 3px 0;
+    margin: 5px 0; /* Consistent spacing between items */
 }
 
 #stickyMenu b {
     font-weight: bold;
+}
+
+/* Optional: Adjust the menu to always fit content */
+html, body {
+    height: 100%; /* Ensure full height for body if required */
+}
+
+#stickyMenu.show {
+    display: block; /* Make the menu visible */
 }
