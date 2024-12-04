@@ -935,8 +935,8 @@ The U.S. job market is not just a collection of statistics—it's a living, brea
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     z-index: 999;
     padding: 10px;
-    overflow-y: visible; /* Prevent scrolling */
-    height: auto; /* Adjust height dynamically */
+    overflow: hidden; /* Prevent scrollbars */
+    max-height: none; /* No height restriction by default */
 ">
     <h3>Occupation Abbreviations</h3>
     <p><b>AEN:</b> Architecture and Engineering Occupations</p>
@@ -969,4 +969,23 @@ function toggleStickyMenu() {
     var menu = document.getElementById('stickyMenu');
     menu.style.display = menu.style.display === 'none' || menu.style.display === '' ? 'block' : 'none';
 }
+
+function adjustStickyMenuSize() {
+    var menu = document.getElementById('stickyMenu');
+    var contentHeight = menu.scrollHeight; // Get total height of the menu content
+    var viewportHeight = window.innerHeight;
+
+    if (contentHeight > viewportHeight - 60) {
+        // If content exceeds viewport height, adjust height
+        menu.style.height = (viewportHeight - 60) + 'px'; // Leave some space from top and bottom
+    } else {
+        // Otherwise, allow full content to be displayed
+        menu.style.height = 'auto';
+    }
+}
+
+// Adjust size on page load and when window resizes
+window.addEventListener('resize', adjustStickyMenuSize);
+document.addEventListener('DOMContentLoaded', adjustStickyMenuSize);
+
 </script>
