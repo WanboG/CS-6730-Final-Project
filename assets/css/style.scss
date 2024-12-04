@@ -14,14 +14,13 @@ body {
 }
 
 #stickyMenu p {
-    margin: 5px 0; /* Consistent spacing between items */
+    margin: 3px 0; /* Consistent spacing between items */
 }
 
 #stickyMenu b {
     font-weight: bold;
 }
 
-/* Optional: Adjust the menu to always fit content */
 html, body {
     height: 100%; /* Ensure full height for body if required */
 }
