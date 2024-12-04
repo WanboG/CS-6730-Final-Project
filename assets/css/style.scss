@@ -6,11 +6,11 @@
 body {
     color: black;
     font-family: Georgia, serif;
+    overflow: visible !important;
 }
 
-/* When Menu is Visible */
 #stickyMenu.show {
-    right: 0;
+    display: block; /* Make the menu visible */
 }
 
 /* Sticky Menu Styles */
