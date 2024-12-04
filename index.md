@@ -578,7 +578,6 @@ While the size of job categories is illuminating, the story becomes richer when 
 </div>
 
 
-
 Outliers in the data provide thought-provoking insights. A handful of roles within lower-paying sectors might command unusually high wages. For example, among production occupations, nuclear power reactor operators earn a median wage exceeding $120,000, while the sector's overall median wage is around $44,270. Conversely, some traditionally high-paying sectors see growing inequality, with top executives earning exponentially more than entry-level managers.
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
