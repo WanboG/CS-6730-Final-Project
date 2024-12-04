@@ -985,7 +985,7 @@ The U.S. job market is not just a collection of statistics—it's a living, brea
     overflow-y: visible; /* Ensure all items are shown */
 ">
     <h3>Occupation Abbreviations</h3>
-    <p><b>AEN:</b> Architecture and Engineering Occupations</p>
+    <b>AEN:</b> Architecture and Engineering Occupations
     <p><b>ART:</b> Arts, Design, Entertainment, Sports, and Media Occupations</p>
     <p><b>BFO:</b> Business and Financial Operations Occupations</p>
     <p><b>BGM:</b> Building and Grounds Cleaning and Maintenance Occupations</p>
