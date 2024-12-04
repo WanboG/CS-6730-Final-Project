@@ -924,7 +924,7 @@ The U.S. job market is not just a collection of statistics—it's a living, brea
 
 
 # Sources
-[1] 
+[1] “Projections Archive.” Bureau of Labor Statistics, 29 Aug. 2024, www.bls.gov/emp/data/projections-archive.htm.
 
 
 <div id="stickyMenu" style="
