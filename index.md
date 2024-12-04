@@ -293,6 +293,10 @@ This article dives into the intertwined world of occupations, revealing the intr
     </script>
 </div>
 
+
+Together they look like,
+
+
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733326794334' style='position: relative'>
         <noscript>
