@@ -293,8 +293,9 @@ This article dives into the intertwined world of occupations, revealing the intr
     </script>
 </div>
 
-
-Together they look like,
+<div style="margin-top: -50px;">
+    Together they look like,
+</div>
 
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
