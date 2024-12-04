@@ -293,6 +293,10 @@ This article dives into the intertwined world of occupations, revealing the intr
     </script>
 </div>
 
+
+Together they look like,
+
+
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733326794334' style='position: relative'>
         <noscript>
@@ -865,56 +869,6 @@ Conversely, sectors heavily impacted by automation may face stagnation or declin
 
 &nbsp;
 
-# **Beyond Statistics: Insights for Individuals**
-For students choosing a career, professionals considering a shift, or policymakers shaping workforce strategies, this data offers valuable insights. It encourages individuals to think critically about their roles within the broader ecosystem. Which sectors are resilient to economic shocks? Where does wage potential align with personal goals? How can we address disparities to create a more equitable job market?
-
-
-<div style="margin:1em calc(50% - 50vw);" align="center">
-    <div class='tableauPlaceholder' id='viz1733289894117' style='position: relative'>
-        <noscript>
-            <a href='#'>
-                <img alt='VIS 10.0' src='https://public.tableau.com/static/images/US/USJobs_17332654883260/VIS10_0/1_rss.png' style='border: none' />
-            </a>
-        </noscript>
-        <object class='tableauViz' style='display:none;'>
-            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-            <param name='embed_code_version' value='3' />
-            <param name='site_root' value='' />
-            <param name='name' value='USJobs_17332654883260/VIS10_0' />
-            <param name='tabs' value='yes' />
-            <param name='toolbar' value='yes' />
-            <param name='static_image' value='https://public.tableau.com/static/images/US/USJobs_17332654883260/VIS10_0/1.png' />
-            <param name='animate_transition' value='yes' />
-            <param name='display_static_image' value='yes' />
-            <param name='display_spinner' value='yes' />
-            <param name='display_overlay' value='yes' />
-            <param name='display_count' value='yes' />
-            <param name='language' value='en-US' />
-            <param name='filter' value='publish=yes' />
-        </object>
-    </div>
-    <script type='text/javascript'>
-        var divElement = document.getElementById('viz1733289894117');
-        var vizElement = divElement.getElementsByTagName('object')[0];
-        if (divElement.offsetWidth > 800) {
-            vizElement.style.width = '800px';
-            vizElement.style.height = '600px';
-        } else if (divElement.offsetWidth > 500) {
-            vizElement.style.width = '800px';
-            vizElement.style.height = '600px';
-        } else {
-            vizElement.style.width = '100%';
-            vizElement.style.height = '600px';
-        }
-        var scriptElement = document.createElement('script');
-        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-        vizElement.parentNode.insertBefore(scriptElement, vizElement);
-    </script>
-</div>
-
-Understanding these patterns is crucial for making informed decisions. By aligning personal goals with sectors that offer both stability and growth, individuals can better navigate the complexities of the job market.
-
-&nbsp;
 
 # **A Call to Action**
 The U.S. job market is not just a collection of statistics—it's a living, breathing ecosystem shaped by external forces, internal dynamics, and the choices of millions of individuals. By understanding its complexities, we can better navigate its challenges and embrace its opportunities. The future of work belongs to those who are willing to look beyond their own field and see the bigger picture.
