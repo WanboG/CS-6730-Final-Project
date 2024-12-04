@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    color: black;
+    font-family: Georgia, serif;
+}
+
+/* When Menu is Visible */
+#stickyMenu.show {
+    right: 0;
+}
+
+/* Sticky Menu Styles */
+#stickyMenu h3 {
+    margin-top: 0;
+    font-size: 18px;
+}
+
+#stickyMenu b {
+    font-weight: bold;
+}
+
