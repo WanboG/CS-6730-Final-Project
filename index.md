@@ -927,7 +927,7 @@ The U.S. job market is not just a collection of statistics—it's a living, brea
     position: fixed;
     top: 50px;
     right: 10px;
-    width: 500px;
+    width: 300px;
     display: none; /* Initially hidden */
     background-color: white;
     border: 1px solid #ccc;
