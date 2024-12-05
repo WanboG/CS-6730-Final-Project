@@ -765,7 +765,7 @@ These disruptions not only impacted immediate employment but also reshaped long-
 &nbsp;
 
 # **The Rise of Self-Employment and the Gig Economy**
-An often-overlooked aspect of the workforce is the growing percentage of self-employed individuals. Data indicates that certain sectors have a higher percentage of self-employed workers, reflecting shifts towards more flexible work arrangements. For example, arts, design, entertainment, sports, and media occupations have a self-employment rate of approximately 34%, compared to about 5% in more traditional sectors like office and administrative support.
+An often-overlooked aspect of the workforce is the growing percentage of self-employed individuals. Data indicates that certain sectors have a higher percentage of self-employed workers, reflecting shifts towards more flexible work arrangements. For example, arts, design, entertainment, sports, and media occupations have a self-employment rate of approximately 26%, compared to about 2% in more traditional sectors like office and administrative support.
 
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
