@@ -603,10 +603,10 @@ Outliers in the data provide thought-provoking insights. A handful of roles with
         var divElement = document.getElementById('viz1733280699220');
         var vizElement = divElement.getElementsByTagName('object')[0];
         if (divElement.offsetWidth > 800) {
-            vizElement.style.width = '800px';
+            vizElement.style.width = '1000px';
             vizElement.style.height = '827px';
         } else if (divElement.offsetWidth > 500) {
-            vizElement.style.width = '800px';
+            vizElement.style.width = '1000px';
             vizElement.style.height = '827px';
         } else {
             vizElement.style.width = '100%';
