@@ -575,7 +575,6 @@ While the size of job categories is illuminating, the story becomes richer when 
 Outliers in the data provide thought-provoking insights. A handful of roles within lower-paying sectors might command unusually high wages. For example, among production occupations, nuclear power reactor operators earn a median wage exceeding $120,000, while the sector's overall median wage is around $44,270. Conversely, some traditionally high-paying sectors see growing inequality, with top executives earning exponentially more than entry-level managers.
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
-    <div class="tableauContainer" style="position: relative; width: 800px; height: 250px; overflow: hidden;">
         <!-- Crop the Tableau visualization container -->
         <div class='tableauPlaceholder' id='viz1733280699220' style='position: absolute; top: 0; left: 0; width: 800px; height: 500px;'>
             <noscript>
@@ -598,7 +597,6 @@ Outliers in the data provide thought-provoking insights. A handful of roles with
                 <param name='filter' value='publish=yes' />
             </object>
         </div>
-    </div>
     <script type='text/javascript'>
         var divElement = document.getElementById('viz1733280699220');
         var vizElement = divElement.getElementsByTagName('object')[0];
