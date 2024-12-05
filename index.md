@@ -19,14 +19,14 @@
 ![HEADER EX](assets/header.png)
 
 
-# **Introduction**
+## **Introduction**
 The U.S. job market, a vast network of over 161 million workers across 825 distinct occupations, operates like a dynamic ecosystem. From the strategic decisions of corporate leaders to the skilled craftsmanship of construction workers, each role contributes to the economy’s overall vitality. Yet, our perspective often narrows to focus solely on our own profession. What happens when we broaden our view to consider the workforce as a whole? The patterns that emerge can reshape our understanding of work—and its future.
 This page offers a comprehensive exploration of the job market, unveiling its interconnections, disparities, and evolution.
 
 
-# **How to Use This Page**
-The dataset comprises 22 top-level job categories called "Super Groups," each represented by an abbreviation (e.g., "OAS" for Office and Administrative Support Occupations). You can toggle these abbreviations on or off using the button in the top-right corner.
-Many graphs feature hover-enabled details. Begin by exploring the Sunburst plot below, which provides an overview of job categories and their hierarchies.
+## **How to Use This Page**
+- The dataset comprises 22 top-level job categories called "Super Groups," each represented by an abbreviation (e.g., "OAS" for Office and Administrative Support Occupations). You can toggle these abbreviations on or off using the button in the top-right corner.
+- Many graphs feature hover-enabled details. Begin by exploring the Sunburst plot below, which provides an overview of job categories and their hierarchies.
 
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
@@ -347,7 +347,7 @@ Through visualizations and data-driven insights, we delve into the intricacies o
 
 &nbsp;
 
-# **The Current Landscape: A Snapshot of the Workforce**
+## **The Current Landscape: A Snapshot of the Workforce**
 The U.S. workforce spans a kaleidoscope of fields, each vital to societal function yet distinct in size and scope. Some fields, such as Office and Administrative Support Occupations (OAS), dominate in scale, employing approximately 19 million workers, while Sales and Related Occupations (SAL) follow closely with 14 million.
 
 
@@ -488,7 +488,7 @@ On the other hand, specialized roles, including Legal Occupations (LEG) or Arts,
 
 &nbsp;
 
-# **The Complexity of Wage Distributions**
+## **The Complexity of Wage Distributions**
 
 Beyond workforce size, wage disparities reveal deeper stories. Within the same sector, wage distributions can vary significantly, reflecting differences in experience, specialization, and accessibility.
 
@@ -671,7 +671,7 @@ Certain sectors also highlight growing wage inequalities, where top executives i
 
 &nbsp;
 
-# **Lessons from the Past: Disruptions and Transformations**
+## **Lessons from the Past: Disruptions and Transformations**
 The U.S. job market has faced significant disruptions during events like the 2008 financial crisis and the COVID-19 pandemic, which revealed vulnerabilities in some sectors and resilience in others.
 The chart below illustrates employment trends among occupations with the highest and lowest employment levels. During the Great Recession, larger employment groups, such as Office and Administrative Support Occupations (OAS), experienced steep declines, while Healthcare Support Occupations (HCS) remained remarkably stable. In contrast, smaller employment groups, such as Protective Service Occupations (PSO), exhibited steady growth, even during economic uncertainty. Fields like Arts, Design, Entertainment, Sports, and Media Occupations (ART), which rely on discretionary spending, showed noticeable dips during economic downturns but began recovering as conditions improved.
 
@@ -767,7 +767,7 @@ These patterns highlight how external disruptions affect occupations unevenly, w
 
 &nbsp;
 
-# **Being your Own Boss?**
+## **Being your Own Boss?**
 Self-employment trends reveal unique insights into sectoral dynamics. Industries like Arts, Design, Entertainment, Sports, and Media Occupations (ART) naturally foster higher self-employment rates due to creative autonomy and fewer barriers to entry. In contrast, Farming, Fishing, and Forestry Occupations (FFF) and Protective Service Occupations (PSO) consistently show lower self-employment rates, reflecting structural limitations or economic realities.
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
@@ -815,7 +815,7 @@ Self-employment trends reveal unique insights into sectoral dynamics. Industries
 
 &nbsp;
 
-# **Projected Growth and Future Opportunities**
+## **Projected Growth and Future Opportunities**
 Looking ahead, understanding the sectors poised for growth is vital. The healthcare and technology industries not only offer high median wages but also demonstrate robust projected growth. For instance, the Computer and Mathematical Occupations (CMT) Super Group is expected to expand significantly due to ongoing digital transformations.
 These area charts illustrate how employment projections have shifted over the years. The green shading indicates years when officials anticipated higher employment levels 10 years into the future, while the red shading reflects lower projections. Most job categories show predominantly positive (green) projections, with a few notable exceptions. Hover your mouse near the x-axis to explore details for each Super Group.
 
@@ -868,7 +868,7 @@ Conversely, sectors heavily impacted by automation may face stagnation or declin
 &nbsp;
 
 
-# **A Call to Action**
+## **A Call to Action**
 The U.S. labor market is more than a collection of numbers; it’s a living ecosystem shaped by millions of choices and external forces. Understanding its complexities allows us to navigate challenges and seize opportunities. The future of work belongs to those who embrace a broader perspective and actively adapt to change.
 
 **Are you ready to explore the possibilities?**
