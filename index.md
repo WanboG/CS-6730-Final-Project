@@ -63,14 +63,22 @@
 
 
 # **Introduction**
-In a country where over 161 million people work across 825 distinct occupations, the U.S. job market is nothing short of a dynamic ecosystem. From the buzzing corporate offices of management professionals to the meticulous hands of construction workers, each job plays a vital role in sustaining the economy. Yet, as individuals, we often view this vast network through the narrow lens of our own professions. What happens when we zoom out and take a panoramic view of the workforce? The patterns that emerge can reshape how we think about our careers—and the future.
+The U.S. job market, a vast network of over 161 million workers across 825 distinct occupations, operates like a dynamic ecosystem. From the strategic decisions of corporate leaders to the skilled craftsmanship of construction workers, each role contributes to the economy’s overall vitality. Yet, our perspective often narrows to focus solely on our own profession. What happens when we broaden our view to consider the workforce as a whole? The patterns that emerge can reshape our understanding of work—and its future.
+This page offers a comprehensive exploration of the job market, unveiling its interconnections, disparities, and evolution.
+
+
+# **How to Use This Page**
+The dataset comprises 22 top-level job categories called "Super Groups," each represented by an abbreviation (e.g., "OAS" for Office and Administrative Support Occupations). You can toggle these abbreviations on or off using the button in the top-right corner.
+Many graphs feature hover-enabled details. Begin by exploring the Sunburst plot below, which provides an overview of job categories and their hierarchies.
 
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
         <div class='tableauPlaceholder' id='viz1733270211721' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USJobs_17332654883260&#47;VIS1_0&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='USJobs_17332654883260&#47;VIS1_0' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USJobs_17332654883260&#47;VIS1_0&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1733270211721');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='800px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='800px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 </div>
 
-This article dives into the intertwined world of occupations, revealing the intricate connections between sectors and the disparities that exist within them. Using data from 22 super groups, each comprising major, broad, and detailed groups, we'll explore not just the current state of the workforce but how external disruptions and internal inequalities shape its evolution.
+
+Through visualizations and data-driven insights, we delve into the intricacies of occupations, examining how external shocks and internal inequalities shape the workforce's trajectory. Below, Lollipop Charts depict individual jobs within their respective Super Groups, revealing nuanced differences across sectors. Be sure to hover over the charts to uncover detailed insights.
+
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733297201170' style='position: relative'>
@@ -332,7 +340,7 @@ This article dives into the intertwined world of occupations, revealing the intr
 </div>
 
 <div style="margin-top: -80px;">
-    Together they look like,
+    When the forests combine,
 </div>
 
 
@@ -383,7 +391,8 @@ This article dives into the intertwined world of occupations, revealing the intr
 &nbsp;
 
 # **The Current Landscape: A Snapshot of the Workforce**
-The U.S. workforce spans a kaleidoscope of fields, each differing in size, scope, and societal role. Visualizations of this data reveal striking contrasts: office and administrative support roles and sales occupations dominate in size, representing millions of workers. For example, office and administrative support occupations employ approximately 19 million people, while sales and related occupations engage over 14 million workers.
+The U.S. workforce spans a kaleidoscope of fields, each vital to societal function yet distinct in size and scope. Some fields, such as Office and Administrative Support Occupations (OAS), dominate in scale, employing approximately 19 million workers, while Sales and Related Occupations (SAL) follow closely with 14 million.
+
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733281655884' style='position: relative'>
@@ -474,7 +483,7 @@ The U.S. workforce spans a kaleidoscope of fields, each differing in size, scope
 </div>
 
 
-Each bubble on a chart tells a story. The relative size of fields like healthcare support or transportation underscores their foundational role in daily life. Healthcare support occupations, for instance, employ over 7.5 million workers, reflecting the sector's essential contribution to society. However, specialized roles such as legal occupations or arts, design, entertainment, sports, and media employ significantly fewer individuals, around 1.3 million and 3 million respectively.
+On the other hand, specialized roles, including Legal Occupations (LEG) or Arts, Design, Entertainment, Sports, and Media Occupations (ART), employ fewer individuals, highlighting their niche yet essential contributions. Healthcare Support Occupations (HCS), with over 7.5 million workers, underscore the sector's indispensable role in society.
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733281944172' style='position: relative'>
@@ -524,7 +533,7 @@ Each bubble on a chart tells a story. The relative size of fields like healthcar
 
 # **The Complexity of Wage Distributions**
 
-While the size of job categories is illuminating, the story becomes richer when we examine wage distributions within these groups. Data shows that even within a single sector, wages can vary dramatically, reflecting disparities in access, experience, and specialization. For instance, healthcare practitioners enjoy some of the highest median annual wages at around $83,740, while the support staff in the same field often struggle with significantly lower earnings, with median wages closer to $40,485.
+Beyond workforce size, wage disparities reveal deeper stories. Within the same sector, wage distributions can vary significantly, reflecting differences in experience, specialization, and accessibility.
 
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
@@ -570,7 +579,8 @@ While the size of job categories is illuminating, the story becomes richer when 
     </script>
 </div>
 
-&nbsp;
+Healthcare Practitioners and Technical Occupations (HPT), for instance, command some of the highest median wages at $83,740 annually, while Healthcare Support Occupations (HCS) earn closer to $40,485. Meanwhile, nuclear power reactor operators in Production Occupations (PRO) outshine their peers with median earnings exceeding $120,000, despite the sector’s overall median wage being around $44,270.
+
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733280605216' style='position: relative'>
@@ -615,9 +625,6 @@ While the size of job categories is illuminating, the story becomes richer when 
     </script>
 </div>
 
-
-Outliers in the data provide thought-provoking insights. A handful of roles within lower-paying sectors might command unusually high wages. For example, among production occupations, nuclear power reactor operators earn a median wage exceeding $120,000, while the sector's overall median wage is around $44,270. Conversely, some traditionally high-paying sectors see growing inequality, with top executives earning exponentially more than entry-level managers.
-
 <div style="margin:1em calc(50% - 50vw);" align="center">
         <!-- Crop the Tableau visualization container -->
         <div class='tableauPlaceholder' id='viz1733280699220' style='position: absolute; top: 0; left: 0; width: 800px; height: 500px;'>
@@ -660,8 +667,7 @@ Outliers in the data provide thought-provoking insights. A handful of roles with
     </script>
 </div>
 
-
-&nbsp;
+Certain sectors also highlight growing wage inequalities, where top executives in Management Occupations (MGT) earn disproportionately more than their entry-level counterparts.
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733280854107' style='position: relative'>
@@ -709,7 +715,8 @@ Outliers in the data provide thought-provoking insights. A handful of roles with
 &nbsp;
 
 # **Lessons from the Past: Disruptions and Transformations**
-The job market has rarely been static, but few periods have reshaped it as dramatically as the 2008 financial crisis and the COVID-19 pandemic. Employment data from these eras shows stark declines in certain industries, such as construction and leisure and hospitality, while others, like healthcare, experienced relative resilience. From 2008 to 2010, construction occupations saw employment decrease by over 20%, illustrating the vulnerability of certain sectors to economic downturns.
+The U.S. job market has faced significant disruptions during events like the 2008 financial crisis and the COVID-19 pandemic, which revealed vulnerabilities in some sectors and resilience in others.
+The chart below illustrates employment trends among occupations with the highest and lowest employment levels. During the Great Recession, larger employment groups, such as Office and Administrative Support Occupations (OAS), experienced steep declines, while Healthcare Support Occupations (HCS) remained remarkably stable. In contrast, smaller employment groups, such as Protective Service Occupations (PSO), exhibited steady growth, even during economic uncertainty. Fields like Arts, Design, Entertainment, Sports, and Media Occupations (ART), which rely on discretionary spending, showed noticeable dips during economic downturns but began recovering as conditions improved.
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733280970108' style='position: relative'>
@@ -754,7 +761,7 @@ The job market has rarely been static, but few periods have reshaped it as drama
     </script>
 </div>
 
-&nbsp;
+Drilling deeper into the construction sector, the next chart highlights specific roles during these disruptions. Occupations like "Painters and Paperhangers" and "Brickmasons, Blockmasons, and Stonemasons" saw sharp declines during the Great Recession, reflecting their dependency on broader economic activity, particularly the housing market. However, roles like "Pipelayers, Plumbers, Pipefitters, and Steamfitters" recovered strongly, benefiting from sustained infrastructure investment and utility demands.
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733281185129' style='position: relative'>
@@ -799,16 +806,12 @@ The job market has rarely been static, but few periods have reshaped it as drama
     </script>
 </div>
 
-
-
-These disruptions not only impacted immediate employment but also reshaped long-term workforce dynamics. The acceleration of automation and remote work during these periods has permanently altered the job landscape. As we look to the future, emerging trends continue to challenge traditional job structures. Will certain sectors vanish entirely, or will they evolve to adapt?
-
+These patterns highlight how external disruptions affect occupations unevenly, with essential roles and infrastructure-focused jobs demonstrating greater resilience. Understanding these trends helps us prepare for future challenges and adapt to shifts in the workforce landscape.
 
 &nbsp;
 
 # **Being your Own Boss?**
-The self-employment rate across sectors has seen a gradual evolution between 2008 and 2023, with industries like Arts, Design, Entertainment, Sports, and Media Occupations consistently leading the way, while fields such as Farming, Fishing, and Forestry Occupations and Protective Service Occupations remain at the bottom. These trends suggest that certain sectors, perhaps due to creative freedom or lower barriers to entry, are naturally more conducive to self-employment. At the same time, the persistence of low self-employment in some industries highlights structural constraints or economic realities that deter entrepreneurial ventures in those fields. 
-
+Self-employment trends reveal unique insights into sectoral dynamics. Industries like Arts, Design, Entertainment, Sports, and Media Occupations (ART) naturally foster higher self-employment rates due to creative autonomy and fewer barriers to entry. In contrast, Farming, Fishing, and Forestry Occupations (FFF) and Protective Service Occupations (PSO) consistently show lower self-employment rates, reflecting structural limitations or economic realities.
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
     <div class='tableauPlaceholder' id='viz1733290396216' style='position: relative'>
@@ -853,13 +856,11 @@ The self-employment rate across sectors has seen a gradual evolution between 200
     </script>
 </div>
 
-
-This trend towards self-employment and gig work raises important questions about job security, benefits, and the future structure of the workforce. As more individuals opt for freelance and contract work, how will this impact the overall economy and traditional employment models?
-
 &nbsp;
 
 # **Projected Growth and Future Opportunities**
-Understanding where the job market is heading is crucial for both individuals and policymakers. Sectors like healthcare and technology not only offer higher median wages but also show strong projected growth over the next decade. For instance, the "Computer and Mathematical Occupations" super group is expected to see significant employment increases due to the ongoing digital transformation.
+Looking ahead, understanding the sectors poised for growth is vital. The healthcare and technology industries not only offer high median wages but also demonstrate robust projected growth. For instance, the Computer and Mathematical Occupations (CMT) Super Group is expected to expand significantly due to ongoing digital transformations.
+These area charts illustrate how employment projections have shifted over the years. The green shading indicates years when officials anticipated higher employment levels 10 years into the future, while the red shading reflects lower projections. Most job categories show predominantly positive (green) projections, with a few notable exceptions. Hover your mouse near the x-axis to explore details for each Super Group.
 
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
@@ -911,7 +912,7 @@ Conversely, sectors heavily impacted by automation may face stagnation or declin
 
 
 # **A Call to Action**
-The U.S. job market is not just a collection of statistics—it's a living, breathing ecosystem shaped by external forces, internal dynamics, and the choices of millions of individuals. By understanding its complexities, we can better navigate its challenges and embrace its opportunities. The future of work belongs to those who are willing to look beyond their own field and see the bigger picture.
+The U.S. labor market is more than a collection of numbers; it’s a living ecosystem shaped by millions of choices and external forces. Understanding its complexities allows us to navigate challenges and seize opportunities. The future of work belongs to those who embrace a broader perspective and actively adapt to change.
 
 **Are you ready to explore the possibilities?**
 
