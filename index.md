@@ -764,8 +764,8 @@ These disruptions not only impacted immediate employment but also reshaped long-
 
 &nbsp;
 
-# **The Rise of Self-Employment and the Gig Economy**
-An often-overlooked aspect of the workforce is the growing percentage of self-employed individuals. Data indicates that certain sectors have a higher percentage of self-employed workers, reflecting shifts towards more flexible work arrangements. For example, arts, design, entertainment, sports, and media occupations have a self-employment rate of approximately 26%, compared to about 2% in more traditional sectors like office and administrative support.
+# **Being your Own Boss?**
+The self-employment rate across sectors has seen a gradual evolution between 2008 and 2023, with industries like Arts, Design, Entertainment, Sports, and Media Occupations consistently leading the way, while fields such as Farming, Fishing, and Forestry Occupations and Protective Service Occupations remain at the bottom. These trends suggest that certain sectors, perhaps due to creative freedom or lower barriers to entry, are naturally more conducive to self-employment. At the same time, the persistence of low self-employment in some industries highlights structural constraints or economic realities that deter entrepreneurial ventures in those fields. 
 
 
 <div style="margin:1em calc(50% - 50vw);" align="center">
