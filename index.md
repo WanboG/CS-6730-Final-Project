@@ -1,6 +1,3 @@
-![HEADER EX](assets/header.png)
-
-
 <div id="stickyMenuIcon" onclick="toggleStickyMenu()" style="
     position: fixed;
     top: 10px;
@@ -17,6 +14,9 @@
 ">
     ☰
 </div>
+
+
+![HEADER EX](assets/header.png)
 
 
 # **Introduction**
